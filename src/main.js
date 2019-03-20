@@ -29,7 +29,6 @@ requireComponent.keys().forEach(fileName => {
     )
   )
 
-
   // Register component globally
   Vue.component(
     componentName,
